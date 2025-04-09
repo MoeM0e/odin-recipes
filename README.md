@@ -1,1 +1,2 @@
 # odin-recipes
+Hello! I'm gonna be making a recipe website in this project, which I'm kinda excited to do since this is the first time I'll be making a multi-page website. I already spent a little while on freeCodeCamp's course, but got stuck on some knowledge I simply couldn't grasp in the CSS course, so I'm trying out TOP now. So since I already have that baseline knowledge of HTML, this won't be hard, but it'll be fun exercise. :)
